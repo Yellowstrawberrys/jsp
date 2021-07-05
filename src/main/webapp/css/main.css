@@ -1,0 +1,39 @@
+@charset "EUC-KR";
+h{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 300%;
+    color: #ffffff;
+    vertical-align: middle;
+    text-align: left !important;
+}
+h2{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 100%;
+    color: #ffffff;
+}
+h1{
+	font-family: 'Do Hyeon', sans-serif;
+    font-size: 200%;
+    color: #ffffff;
+}
+t{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 100%;
+    color: #ffffff;
+}
+body{
+	background-color: #333333;
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
+input{
+	background-color: #333333;
+	color: #ffffff;
+	border-radius: 8px;
+	border: 2px solid #ffffff;
+}
+.m {
+	text-align: center;
+}
